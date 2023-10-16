@@ -10,7 +10,7 @@ download git bash,
 buka git bash lalu clone repository,
 ketik git add README.md untuk menambahkan file,
 commit perubahan dengan git commit -m "perubahan",
-lalu push ke repository dengan git push -u origin main,
+lalu push ke repository dengan git push -u origin main.
 
 kode tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
